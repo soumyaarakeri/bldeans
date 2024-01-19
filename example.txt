@@ -1,1 +1,3 @@
 Today is Friday
+tommorow is saturday
+sunday is holiday
