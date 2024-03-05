@@ -2,3 +2,4 @@ Today is Friday
 cd
 init status nano global local gitadd gitremote commit push
 cd branch branchnewfile checkout nano add commit checkoutmaster merge
+cd nanoa.txt add commitweb stash checkoutnewbranch nanobtxt add commitnextfile stashapply add commitwebfile
