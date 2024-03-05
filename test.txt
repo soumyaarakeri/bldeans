@@ -2,3 +2,6 @@
 {
 printf("Hello world")
 }
+branch
+branch feature2 checkoutfeature2 nanof4.txt add commit pushf2 checkmaster gitmergef2-branch-m"f to master"
+push ,push--force
