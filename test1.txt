@@ -1,2 +1,3 @@
 good morning all
+log tagv2.0 checkv2 nano checkout -bc2batchv2.0 nano checkmaster add commit-msavedwthtag checkmaster nano checkc2batch nano
 
